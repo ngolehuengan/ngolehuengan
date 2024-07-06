@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngo Le Hue Ngan</h1>
 <h3 align="center">Passionate about advancing in production and web development, aiming to enhance proficiency across both Back-end and Front-end technologies. Seeking opportunities to deepen expertise in C# .NET and embrace emerging frameworks, contributing to dynamic projects and fostering team success through innovative solutions.</h3>
 
-- 📄 Know about my experiences [https://bit.ly/resume_ngolehuengan](https://bit.ly/resume_ngolehuengan)
+- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1PJSvk10_7PeI6Z7TTVvzoHMiaJe2fo7P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
